@@ -18,7 +18,6 @@ public class DemoRunner {
         Collections.sort(cats);
 
         Pet pet1 = new Cat(2);
-        Dog c = (Dog)pet1;
 
         Dog d = new Dog();
 
